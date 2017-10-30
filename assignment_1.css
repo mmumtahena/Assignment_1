@@ -1,0 +1,27 @@
+body{
+	margin:2;
+}
+table{
+	
+	margin: auto;
+	border-collapse: collapse;
+    width: 100%;
+}
+
+th, td, tr{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table tr:nth-child(odd) {
+    
+    background-color: #ADEAFF;
+}
+h1{
+	background: #837FFF; 
+	font-family: Arial; 
+	font-size:30px; 
+	color:white; 
+	text-align:center;
+}
